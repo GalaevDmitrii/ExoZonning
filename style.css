@@ -1,0 +1,104 @@
+header {
+    width: 100%;
+    height: 30%;
+    background-color: orange;
+    text-align: center;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+
+}
+
+.nav_links {
+
+    background-color: aquamarine;
+    width: 100%;
+    height: 8%;
+    text-align: center;
+    border: 2px solid black;
+    margin-bottom: 25px;
+    box-sizing: border-box;
+}
+
+main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+
+}
+
+section {
+
+    border: solid 2px black;
+    width: 85%;
+    height: 500px;
+    background-color: gray;
+    float: left;
+
+}
+
+#art1 {
+
+    width: 97%;
+    height: 200px;
+    background-color: lightblue;
+    margin: 15px 15px 15px 15px;
+
+}
+
+.flex1 {
+    display: flex
+}
+
+#art2 {
+    margin: 15px 15px 15px 15px;
+
+    width: 75%;
+    height: 200px;
+    background-color: lightblue;
+
+
+}
+
+#aside1 {
+    display: inline;
+    width: 20.6%;
+    height: 200px;
+    background-color: lightblue;
+    float: right;
+    margin: 15px 15px 15px 0px;
+    border: solid 2px black;
+}
+
+.aside2 {
+
+    width: 15%;
+    float: right;
+    height: 500px;
+    background-color: aqua;
+    border: solid 2px black;
+    margin-left: 15px;
+}
+
+article {
+    border: solid 2px black;
+
+}
+
+footer {
+    border: solid 2px black;
+    height: 100px;
+    background-color: green;
+    margin-top: 15px;
+
+}
+
+
+
+
